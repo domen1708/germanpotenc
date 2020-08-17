@@ -1,2 +1,2 @@
 # germanpotenc
-Hello!
+Hello
